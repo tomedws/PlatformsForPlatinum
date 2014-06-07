@@ -1,4 +1,6 @@
 # Platforms For Platinum
+![make plat get plat](httpshttp://i.imgur.com/YVdPPNa.png)
+
 Buy Iron Chunks for cheap from the CX and convert them to Metal Platforms automatically. Fully automated with Carbine's addon API.
 
 Use /plat to bring up the menu. Be near a crafting station before pressing Start.
